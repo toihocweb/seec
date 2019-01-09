@@ -14,7 +14,7 @@ class Navbar extends Component {
                                 <span className="icon-bar" />
                                 <span className="icon-bar" />
                             </button>
-                            <a className="navbar-brand page-scroll" as={Link} href="#page-top"><img src="/assets/images/logo.svg" alt="Sanza theme logo" /></a>
+                            <a className="navbar-brand page-scroll" as={Link} href="#page-top"><img src="/assets/images/logo.png" alt="SEEC Viet Nam" /></a>
                         </div>
 
                         <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
